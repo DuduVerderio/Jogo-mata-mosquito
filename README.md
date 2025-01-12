@@ -1,3 +1,3 @@
 # Jogo Mata Mosquito 
 
-Página: https://duduverderio.github.io/Jogo-mata-mosquito/
+Página: https://duduverderio.github.io/JogoMataMosquito/
